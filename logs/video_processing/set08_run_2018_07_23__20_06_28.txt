@@ -1,0 +1,299 @@
+   23-Jul-2018 20:06:28
+
+--------------- Dataset conversion  |  seq --> png 
+
+currentDir : dataset/seq/set08/ 
+  numFiles : 11
+Processing : 100.0 % [==================================================]
+   Overall : 100.0 % [==================================================] (for   0:46:44 |   0:00:00 remaining)
+
+
+Done.
+
+Average processing time : 0.14 sec/frame
+ Total frames processed : 19822
+    Total seq processed : 11   
+          Total runtime : 00:46:43
+
+
+
+--------------- Noise simulation  |  Ed's pipeline 
+
+currentDir : ./dataset/png/original/set08/V000/ 
+     numIm : 1785
+Processing : 100.0 % [==================================================]
+   Overall :   9.0 % [====                                              ] (for   1:32:56 |  15:39:07 remaining)
+
+currentDir : ./dataset/png/original/set08/V001/ 
+     numIm : 1785
+Processing : 100.0 % [==================================================]
+   Overall :  18.0 % [=========                                         ] (for   3:05:00 |  14:02:13 remaining)
+
+currentDir : ./dataset/png/original/set08/V002/ 
+     numIm : 1842
+Processing : 100.0 % [==================================================]
+   Overall :  27.3 % [=============                                     ] (for   4:42:40 |  12:32:38 remaining)
+
+currentDir : ./dataset/png/original/set08/V003/ 
+     numIm : 1841
+Processing : 100.0 % [==================================================]
+   Overall :  36.6 % [==================                                ] (for   6:18:29 |  10:55:53 remaining)
+
+currentDir : ./dataset/png/original/set08/V004/ 
+     numIm : 1841
+Processing : 100.0 % [==================================================]
+   Overall :  45.9 % [======================                            ] (for   7:54:38 |   9:19:55 remaining)
+
+currentDir : ./dataset/png/original/set08/V005/ 
+     numIm : 1842
+Processing : 100.0 % [==================================================]
+   Overall :  55.2 % [===========================                       ] (for   9:29:47 |   7:42:59 remaining)
+
+currentDir : ./dataset/png/original/set08/V006/ 
+     numIm : 1841
+Processing : 100.0 % [==================================================]
+   Overall :  64.5 % [================================                  ] (for  11:07:10 |   6:07:52 remaining)
+
+currentDir : ./dataset/png/original/set08/V007/ 
+     numIm : 1842
+Processing : 100.0 % [==================================================]
+   Overall :  73.8 % [====================================              ] (for  12:46:10 |   4:32:41 remaining)
+
+currentDir : ./dataset/png/original/set08/V008/ 
+     numIm : 1842
+Processing : 100.0 % [==================================================]
+   Overall :  83.0 % [=========================================         ] (for  14:27:22 |   2:57:06 remaining)
+
+currentDir : ./dataset/png/original/set08/V009/ 
+     numIm : 1680
+Processing : 100.0 % [==================================================]
+   Overall :  91.5 % [=============================================     ] (for  15:57:02 |   1:28:41 remaining)
+
+currentDir : ./dataset/png/original/set08/V010/ 
+     numIm : 1681
+Processing : 100.0 % [==================================================]
+   Overall : 100.0 % [==================================================] (for  17:30:53 |   0:00:00 remaining)
+
+
+Done.
+
+Average processing time : 2.59 sec/image
+ Average backuping time : 0.59 sec/image
+ 
+ Total processed images : 19822
+          Total runtime : 17:31:00 (0.01% spend in functions)
+
+
+
+--------------- Denoising  |  CBM3D 
+
+  sequence : set08/V000/ 
+     numIm : 1785
+Processing : 100.0 % [=========================]
+   Overall :   1.8 % [                         ] (for   0:57:51 |  52:34:28 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :   3.6 % [                         ] (for   1:58:15 |  52:44:48 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :   5.4 % [=                        ] (for   3:12:28 |  56:09:49 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :   7.2 % [=                        ] (for   4:22:44 |  56:24:10 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :   9.0 % [==                       ] (for   5:32:32 |  56:00:12 remaining)
+
+
+  sequence : set08/V001/ 
+     numIm : 1785
+Processing : 100.0 % [=========================]
+   Overall :  10.8 % [==                       ] (for   6:25:13 |  52:59:35 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  12.6 % [===                      ] (for   7:21:49 |  51:02:37 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  14.4 % [===                      ] (for   8:35:15 |  51:00:48 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  16.2 % [====                     ] (for   9:46:07 |  50:29:51 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  18.0 % [====                     ] (for  10:56:21 |  49:47:57 remaining)
+
+
+  sequence : set08/V002/ 
+     numIm : 1842
+Processing : 100.0 % [=========================]
+   Overall :  19.9 % [====                     ] (for  11:48:06 |  47:35:46 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  21.7 % [=====                    ] (for  12:46:42 |  46:02:02 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  23.6 % [=====                    ] (for  14:00:40 |  45:23:36 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  25.4 % [======                   ] (for  15:12:23 |  44:33:24 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  27.3 % [======                   ] (for  16:22:44 |  43:36:37 remaining)
+
+
+  sequence : set08/V003/ 
+     numIm : 1841
+Processing : 100.0 % [=========================]
+   Overall :  29.2 % [=======                  ] (for  17:12:28 |  41:48:11 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  31.0 % [=======                  ] (for  18:07:09 |  40:17:44 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  32.9 % [========                 ] (for  19:21:40 |  39:31:51 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  34.7 % [========                 ] (for  20:34:21 |  38:39:27 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  36.6 % [=========                ] (for  21:46:54 |  37:44:46 remaining)
+
+
+  sequence : set08/V004/ 
+     numIm : 1841
+Processing : 100.0 % [=========================]
+   Overall :  38.4 % [=========                ] (for  22:36:15 |  36:11:13 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  40.3 % [==========               ] (for  23:31:22 |  34:50:18 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  42.2 % [==========               ] (for  24:45:40 |  33:57:57 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  44.0 % [===========              ] (for  26:04:01 |  33:08:54 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  45.9 % [===========              ] (for  27:22:38 |  32:17:47 remaining)
+
+
+  sequence : set08/V005/ 
+     numIm : 1842
+Processing : 100.0 % [=========================]
+   Overall :  47.7 % [===========              ] (for  28:26:22 |  31:08:10 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  49.6 % [============             ] (for  29:29:09 |  29:58:01 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  51.5 % [============             ] (for  30:39:35 |  28:55:37 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  53.3 % [=============            ] (for  31:49:41 |  27:52:22 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  55.2 % [=============            ] (for  32:58:45 |  26:47:50 remaining)
+
+
+  sequence : set08/V006/ 
+     numIm : 1841
+Processing : 100.0 % [=========================]
+   Overall :  57.0 % [==============           ] (for  33:48:11 |  25:28:15 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  58.9 % [==============           ] (for  34:43:12 |  24:14:29 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  60.7 % [===============          ] (for  35:52:59 |  23:11:24 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  62.6 % [===============          ] (for  37:02:27 |  22:07:44 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  64.5 % [================         ] (for  38:10:40 |  21:03:02 remaining)
+
+
+  sequence : set08/V007/ 
+     numIm : 1842
+Processing : 100.0 % [=========================]
+   Overall :  66.3 % [================         ] (for  38:58:09 |  19:47:33 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  68.2 % [=================        ] (for  39:52:45 |  18:36:56 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  70.0 % [=================        ] (for  41:03:11 |  17:33:56 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  71.9 % [=================        ] (for  42:13:36 |  16:30:32 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  73.8 % [==================       ] (for  43:23:11 |  15:26:29 remaining)
+
+
+  sequence : set08/V008/ 
+     numIm : 1842
+Processing : 100.0 % [=========================]
+   Overall :  75.6 % [==================       ] (for  44:10:16 |  14:14:55 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  77.5 % [===================      ] (for  45:05:16 |  13:06:49 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  79.3 % [===================      ] (for  46:15:58 |  12:03:26 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  81.2 % [====================     ] (for  47:25:60 |  10:59:33 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  83.0 % [====================     ] (for  48:35:28 |   9:55:17 remaining)
+
+
+  sequence : set08/V009/ 
+     numIm : 1680
+Processing : 100.0 % [=========================]
+   Overall :  84.7 % [=====================    ] (for  49:20:41 |   8:53:12 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  86.4 % [=====================    ] (for  50:10:24 |   7:52:29 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  88.1 % [======================   ] (for  51:14:59 |   6:54:11 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  89.8 % [======================   ] (for  52:18:58 |   5:55:35 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  91.5 % [======================   ] (for  53:22:22 |   4:56:44 remaining)
+
+
+  sequence : set08/V010/ 
+     numIm : 1681
+Processing : 100.0 % [=========================]
+   Overall :  93.2 % [=======================  ] (for  54:04:01 |   3:56:06 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  94.9 % [=======================  ] (for  54:52:25 |   2:56:31 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  96.6 % [======================== ] (for  55:57:05 |   1:57:53 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall :  98.3 % [======================== ] (for  57:01:17 |   0:59:02 remaining)
+
+Processing : 100.0 % [=========================]
+   Overall : 100.0 % [=========================] (for  58:05:06 |   0:00:00 remaining)
+
+
+Done.
+
+ Total processed frames : 99110
+Average processing time : 1.86 sec/image
+          Total runtime : 58:05:06 (11.91% spend in functions)
+
+
+
+--------------- END 
+
+Elapsed time : 76:23:33 
+

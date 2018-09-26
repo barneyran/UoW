@@ -1,0 +1,5 @@
+ACF 0.809616
+ACF++ 0.675039
+noisy_snr20 0.831569
+noisy_snr40 0.808269
+original 0.800173

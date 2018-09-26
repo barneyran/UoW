@@ -1,0 +1,12 @@
+ACF++ 0.210522
+denoised_lc(sig=29.9491)_snr03 0.951397
+denoised_lc(sig=29.9491)_snr05 0.846669
+denoised_lc(sig=29.9491)_snr10 0.597041
+denoised_lc(sig=29.9491)_snr20 0.598884
+denoised_lc(sig=29.9491)_snr40 0.589943
+noisy_snr03 0.960230
+noisy_snr05 0.872083
+noisy_snr10 0.637756
+noisy_snr20 0.557659
+noisy_snr40 0.494813
+original 0.461910

@@ -1,0 +1,800 @@
+  num_im_tot : 247775
+num_dirs_tot : 132
+
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V000\snr03 (#1/132)
+       numIm : 1842
+elapsed_time : 0:00:00
+   remaining : 286 days, 18:38:20
+ average_fps : 0.01
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V000\snr05 (#2/132)
+       numIm : 1842
+elapsed_time : 0:03:19.059301
+   remaining : 7:22:57.226410
+ average_fps : 9.25
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V000\snr10 (#3/132)
+       numIm : 1842
+elapsed_time : 0:06:28.848102
+   remaining : 7:09:23.931061
+ average_fps : 9.47
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V000\snr20 (#4/132)
+       numIm : 1842
+elapsed_time : 0:09:30.568227
+   remaining : 6:56:52.591806
+ average_fps : 9.69
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V000\snr40 (#5/132)
+       numIm : 1842
+elapsed_time : 0:12:47.940419
+   remaining : 6:57:36.766064
+ average_fps : 9.59
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V001\snr03 (#6/132)
+       numIm : 1842
+elapsed_time : 0:15:50.894424
+   remaining : 6:50:30.849985
+ average_fps : 9.69
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V001\snr05 (#7/132)
+       numIm : 1842
+elapsed_time : 0:18:40.018339
+   remaining : 6:39:49.694280
+ average_fps : 9.87
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V001\snr10 (#8/132)
+       numIm : 1842
+elapsed_time : 0:21:17.295550
+   remaining : 6:27:47.601675
+ average_fps : 10.09
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V001\snr20 (#9/132)
+       numIm : 1842
+elapsed_time : 0:23:47.581369
+   remaining : 6:16:16.149209
+ average_fps : 10.32
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V001\snr40 (#10/132)
+       numIm : 1842
+elapsed_time : 0:26:23.578764
+   remaining : 6:08:04.609700
+ average_fps : 10.47
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V002\snr03 (#11/132)
+       numIm : 1841
+elapsed_time : 0:29:00.157588
+   remaining : 6:01:07.418213
+ average_fps : 10.59
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V002\snr05 (#12/132)
+       numIm : 1841
+elapsed_time : 0:31:42.668805
+   remaining : 5:56:05.371424
+ average_fps : 10.65
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V002\snr10 (#13/132)
+       numIm : 1841
+elapsed_time : 0:34:11.237681
+   remaining : 5:49:04.211434
+ average_fps : 10.77
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V002\snr20 (#14/132)
+       numIm : 1841
+elapsed_time : 0:36:50.521852
+   remaining : 5:44:25.143346
+ average_fps : 10.83
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V002\snr40 (#15/132)
+       numIm : 1841
+elapsed_time : 0:39:51.659007
+   remaining : 5:43:11.326974
+ average_fps : 10.78
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V003\snr03 (#16/132)
+       numIm : 1841
+elapsed_time : 0:42:56.484500
+   remaining : 5:42:12.599555
+ average_fps : 10.72
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V003\snr05 (#17/132)
+       numIm : 1841
+elapsed_time : 0:46:19.267470
+   remaining : 5:43:11.159376
+ average_fps : 10.60
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V003\snr10 (#18/132)
+       numIm : 1841
+elapsed_time : 0:49:31.531339
+   remaining : 5:42:26.249908
+ average_fps : 10.54
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V003\snr20 (#19/132)
+       numIm : 1841
+elapsed_time : 0:52:29.301968
+   remaining : 5:39:51.131694
+ average_fps : 10.53
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V003\snr40 (#20/132)
+       numIm : 1841
+elapsed_time : 0:55:09.238996
+   remaining : 5:35:25.174454
+ average_fps : 10.57
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V004\snr03 (#21/132)
+       numIm : 1977
+elapsed_time : 0:57:33.191105
+   remaining : 5:29:38.262224
+ average_fps : 10.67
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V004\snr05 (#22/132)
+       numIm : 1977
+elapsed_time : 1:00:30.177242
+   remaining : 5:25:47.784626
+ average_fps : 10.69
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V004\snr10 (#23/132)
+       numIm : 1977
+elapsed_time : 1:03:34.766958
+   remaining : 5:22:41.083451
+ average_fps : 10.69
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V004\snr20 (#24/132)
+       numIm : 1977
+elapsed_time : 1:06:42.758271
+   remaining : 5:19:50.886183
+ average_fps : 10.68
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V004\snr40 (#25/132)
+       numIm : 1977
+elapsed_time : 1:09:34.288067
+   remaining : 5:15:44.408024
+ average_fps : 10.72
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V005\snr03 (#26/132)
+       numIm : 2175
+elapsed_time : 1:12:26.072326
+   remaining : 5:11:45.368765
+ average_fps : 10.75
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V005\snr05 (#27/132)
+       numIm : 2175
+elapsed_time : 1:16:05.789437
+   remaining : 5:09:33.676256
+ average_fps : 10.71
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V005\snr10 (#28/132)
+       numIm : 2175
+elapsed_time : 1:19:26.552979
+   remaining : 5:06:01.473347
+ average_fps : 10.71
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V005\snr20 (#29/132)
+       numIm : 2175
+elapsed_time : 1:22:29.155944
+   remaining : 5:01:23.847699
+ average_fps : 10.76
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V005\snr40 (#30/132)
+       numIm : 2175
+elapsed_time : 1:25:38.270183
+   remaining : 4:57:16.283542
+ average_fps : 10.78
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V006\snr03 (#31/132)
+       numIm : 1841
+elapsed_time : 1:28:47.159313
+   remaining : 4:53:12.390936
+ average_fps : 10.81
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V006\snr05 (#32/132)
+       numIm : 1841
+elapsed_time : 1:31:51.406396
+   remaining : 4:51:06.310953
+ average_fps : 10.78
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V006\snr10 (#33/132)
+       numIm : 1841
+elapsed_time : 1:34:42.058645
+   remaining : 4:48:15.354869
+ average_fps : 10.78
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V006\snr20 (#34/132)
+       numIm : 1841
+elapsed_time : 1:37:18.251426
+   remaining : 4:44:42.109626
+ average_fps : 10.81
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V006\snr40 (#35/132)
+       numIm : 1841
+elapsed_time : 1:39:59.100136
+   remaining : 4:41:25.203158
+ average_fps : 10.83
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V007\snr03 (#36/132)
+       numIm : 1842
+elapsed_time : 1:42:42.264720
+   remaining : 4:38:16.559160
+ average_fps : 10.84
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V007\snr05 (#37/132)
+       numIm : 1842
+elapsed_time : 1:45:48.866357
+   remaining : 4:36:10.118471
+ average_fps : 10.81
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V007\snr10 (#38/132)
+       numIm : 1842
+elapsed_time : 1:48:45.547364
+   remaining : 4:33:35.576916
+ average_fps : 10.80
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V007\snr20 (#39/132)
+       numIm : 1842
+elapsed_time : 1:51:28.220547
+   remaining : 4:30:25.923975
+ average_fps : 10.81
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V007\snr40 (#40/132)
+       numIm : 1842
+elapsed_time : 1:54:15.004944
+   remaining : 4:27:27.235391
+ average_fps : 10.82
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V008\snr03 (#41/132)
+       numIm : 1842
+elapsed_time : 1:57:01.489172
+   remaining : 4:24:28.445432
+ average_fps : 10.82
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V008\snr05 (#42/132)
+       numIm : 1842
+elapsed_time : 2:00:00.544615
+   remaining : 4:21:57.678848
+ average_fps : 10.81
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V008\snr10 (#43/132)
+       numIm : 1842
+elapsed_time : 2:02:49.152306
+   remaining : 4:19:03.567300
+ average_fps : 10.81
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V008\snr20 (#44/132)
+       numIm : 1842
+elapsed_time : 2:05:24.122715
+   remaining : 4:15:41.897641
+ average_fps : 10.84
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V008\snr40 (#45/132)
+       numIm : 1842
+elapsed_time : 2:08:03.715911
+   remaining : 4:12:31.407088
+ average_fps : 10.85
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V009\snr03 (#46/132)
+       numIm : 1841
+elapsed_time : 2:10:44.064870
+   remaining : 4:09:23.694013
+ average_fps : 10.86
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V009\snr05 (#47/132)
+       numIm : 1841
+elapsed_time : 2:13:49.763919
+   remaining : 4:07:04.200829
+ average_fps : 10.84
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V009\snr10 (#48/132)
+       numIm : 1841
+elapsed_time : 2:16:41.859869
+   remaining : 4:04:18.482202
+ average_fps : 10.84
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V009\snr20 (#49/132)
+       numIm : 1841
+elapsed_time : 2:19:14.431576
+   remaining : 4:00:58.714888
+ average_fps : 10.86
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V009\snr40 (#50/132)
+       numIm : 1841
+elapsed_time : 2:21:52.796441
+   remaining : 3:57:50.536045
+ average_fps : 10.88
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V010\snr03 (#51/132)
+       numIm : 1841
+elapsed_time : 2:24:31.477226
+   remaining : 3:54:44.032937
+ average_fps : 10.89
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V010\snr05 (#52/132)
+       numIm : 1841
+elapsed_time : 2:27:34.099001
+   remaining : 3:52:16.276956
+ average_fps : 10.87
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V010\snr10 (#53/132)
+       numIm : 1841
+elapsed_time : 2:30:23.697686
+   remaining : 3:49:27.343212
+ average_fps : 10.87
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V010\snr20 (#54/132)
+       numIm : 1841
+elapsed_time : 2:33:06.621390
+   remaining : 3:46:28.511584
+ average_fps : 10.88
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V010\snr40 (#55/132)
+       numIm : 1841
+elapsed_time : 2:35:53.484154
+   remaining : 3:43:35.905301
+ average_fps : 10.88
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V011\snr03 (#56/132)
+       numIm : 1800
+elapsed_time : 2:38:42.520519
+   remaining : 3:40:46.526735
+ average_fps : 10.88
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V011\snr05 (#57/132)
+       numIm : 1800
+elapsed_time : 2:41:38.587517
+   remaining : 3:38:15.508020
+ average_fps : 10.87
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V011\snr10 (#58/132)
+       numIm : 1800
+elapsed_time : 2:44:18.793324
+   remaining : 3:35:22.857558
+ average_fps : 10.88
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V011\snr20 (#59/132)
+       numIm : 1800
+elapsed_time : 2:46:47.475258
+   remaining : 3:32:15.952232
+ average_fps : 10.89
+
+ current_dir : ..\dataset\png\denoised\lc(sig=29.9491)\set07\V011\snr40 (#60/132)
+       numIm : 1800
+elapsed_time : 2:49:23.084405
+   remaining : 3:29:18.848719
+ average_fps : 10.90
+
+ current_dir : ..\dataset\png\noisy\set07\V000\snr03 (#61/132)
+       numIm : 1842
+elapsed_time : 2:52:09.046399
+   remaining : 3:26:34.855679
+ average_fps : 10.90
+
+ current_dir : ..\dataset\png\noisy\set07\V000\snr05 (#62/132)
+       numIm : 1842
+elapsed_time : 2:55:31.870247
+   remaining : 3:24:25.391413
+ average_fps : 10.87
+
+ current_dir : ..\dataset\png\noisy\set07\V000\snr10 (#63/132)
+       numIm : 1842
+elapsed_time : 2:58:44.078197
+   remaining : 3:22:01.604212
+ average_fps : 10.85
+
+ current_dir : ..\dataset\png\noisy\set07\V000\snr20 (#64/132)
+       numIm : 1842
+elapsed_time : 3:01:40.732700
+   remaining : 3:19:19.243472
+ average_fps : 10.84
+
+ current_dir : ..\dataset\png\noisy\set07\V000\snr40 (#65/132)
+       numIm : 1842
+elapsed_time : 3:04:29.627031
+   remaining : 3:16:28.179987
+ average_fps : 10.84
+
+ current_dir : ..\dataset\png\noisy\set07\V001\snr03 (#66/132)
+       numIm : 1842
+elapsed_time : 3:07:14.355108
+   remaining : 3:13:32.875465
+ average_fps : 10.84
+
+ current_dir : ..\dataset\png\noisy\set07\V001\snr05 (#67/132)
+       numIm : 1842
+elapsed_time : 3:10:38.746616
+   remaining : 3:11:17.684433
+ average_fps : 10.81
+
+ current_dir : ..\dataset\png\noisy\set07\V001\snr10 (#68/132)
+       numIm : 1842
+elapsed_time : 3:13:53.872418
+   remaining : 3:08:51.437522
+ average_fps : 10.79
+
+ current_dir : ..\dataset\png\noisy\set07\V001\snr20 (#69/132)
+       numIm : 1842
+elapsed_time : 3:16:50.854857
+   remaining : 3:06:06.623038
+ average_fps : 10.78
+
+ current_dir : ..\dataset\png\noisy\set07\V001\snr40 (#70/132)
+       numIm : 1842
+elapsed_time : 3:19:40.111794
+   remaining : 3:03:14.371769
+ average_fps : 10.78
+
+ current_dir : ..\dataset\png\noisy\set07\V002\snr03 (#71/132)
+       numIm : 1841
+elapsed_time : 3:22:24.560615
+   remaining : 3:00:17.921787
+ average_fps : 10.79
+
+ current_dir : ..\dataset\png\noisy\set07\V002\snr05 (#72/132)
+       numIm : 1841
+elapsed_time : 3:25:52.748266
+   remaining : 2:57:59.792420
+ average_fps : 10.76
+
+ current_dir : ..\dataset\png\noisy\set07\V002\snr10 (#73/132)
+       numIm : 1841
+elapsed_time : 3:28:52.143670
+   remaining : 2:55:15.589137
+ average_fps : 10.75
+
+ current_dir : ..\dataset\png\noisy\set07\V002\snr20 (#74/132)
+       numIm : 1841
+elapsed_time : 3:31:46.495258
+   remaining : 2:52:26.869092
+ average_fps : 10.75
+
+ current_dir : ..\dataset\png\noisy\set07\V002\snr40 (#75/132)
+       numIm : 1841
+elapsed_time : 3:34:38.083997
+   remaining : 2:49:35.816127
+ average_fps : 10.75
+
+ current_dir : ..\dataset\png\noisy\set07\V003\snr03 (#76/132)
+       numIm : 1841
+elapsed_time : 3:37:27.883445
+   remaining : 2:46:43.377308
+ average_fps : 10.75
+
+ current_dir : ..\dataset\png\noisy\set07\V003\snr05 (#77/132)
+       numIm : 1841
+elapsed_time : 3:40:55.326496
+   remaining : 2:44:19.005323
+ average_fps : 10.72
+
+ current_dir : ..\dataset\png\noisy\set07\V003\snr10 (#78/132)
+       numIm : 1841
+elapsed_time : 3:44:05.001870
+   remaining : 2:41:40.200992
+ average_fps : 10.71
+
+ current_dir : ..\dataset\png\noisy\set07\V003\snr20 (#79/132)
+       numIm : 1841
+elapsed_time : 3:46:46.104712
+   remaining : 2:38:40.623798
+ average_fps : 10.71
+
+ current_dir : ..\dataset\png\noisy\set07\V003\snr40 (#80/132)
+       numIm : 1841
+elapsed_time : 3:49:30.626411
+   remaining : 2:35:43.827225
+ average_fps : 10.72
+
+ current_dir : ..\dataset\png\noisy\set07\V004\snr03 (#81/132)
+       numIm : 1977
+elapsed_time : 3:52:13.528311
+   remaining : 2:32:46.267462
+ average_fps : 10.73
+
+ current_dir : ..\dataset\png\noisy\set07\V004\snr05 (#82/132)
+       numIm : 1977
+elapsed_time : 3:55:55.625619
+   remaining : 2:30:05.992386
+ average_fps : 10.70
+
+ current_dir : ..\dataset\png\noisy\set07\V004\snr10 (#83/132)
+       numIm : 1977
+elapsed_time : 3:59:24.246059
+   remaining : 2:27:15.833906
+ average_fps : 10.68
+
+ current_dir : ..\dataset\png\noisy\set07\V004\snr20 (#84/132)
+       numIm : 1977
+elapsed_time : 4:02:32.687195
+   remaining : 2:24:12.698552
+ average_fps : 10.68
+
+ current_dir : ..\dataset\png\noisy\set07\V004\snr40 (#85/132)
+       numIm : 1977
+elapsed_time : 4:05:34.076432
+   remaining : 2:21:05.378255
+ average_fps : 10.68
+
+ current_dir : ..\dataset\png\noisy\set07\V005\snr03 (#86/132)
+       numIm : 2175
+elapsed_time : 4:08:29.740857
+   remaining : 2:17:55.027819
+ average_fps : 10.69
+
+ current_dir : ..\dataset\png\noisy\set07\V005\snr05 (#87/132)
+       numIm : 2175
+elapsed_time : 4:12:40.267936
+   remaining : 2:14:56.614631
+ average_fps : 10.65
+
+ current_dir : ..\dataset\png\noisy\set07\V005\snr10 (#88/132)
+       numIm : 2175
+elapsed_time : 4:17:00.734673
+   remaining : 2:12:01.390891
+ average_fps : 10.61
+
+ current_dir : ..\dataset\png\noisy\set07\V005\snr20 (#89/132)
+       numIm : 2175
+elapsed_time : 4:21:01.355110
+   remaining : 2:08:54.130751
+ average_fps : 10.59
+
+ current_dir : ..\dataset\png\noisy\set07\V005\snr40 (#90/132)
+       numIm : 2175
+elapsed_time : 4:24:55.564684
+   remaining : 2:05:42.447334
+ average_fps : 10.57
+
+ current_dir : ..\dataset\png\noisy\set07\V006\snr03 (#91/132)
+       numIm : 1841
+elapsed_time : 4:28:45.792756
+   remaining : 2:02:27.862915
+ average_fps : 10.56
+
+ current_dir : ..\dataset\png\noisy\set07\V006\snr05 (#92/132)
+       numIm : 1841
+elapsed_time : 4:32:35.879942
+   remaining : 1:59:57.952256
+ average_fps : 10.52
+
+ current_dir : ..\dataset\png\noisy\set07\V006\snr10 (#93/132)
+       numIm : 1841
+elapsed_time : 4:36:16.016725
+   remaining : 1:57:22.116676
+ average_fps : 10.49
+
+ current_dir : ..\dataset\png\noisy\set07\V006\snr20 (#94/132)
+       numIm : 1841
+elapsed_time : 4:39:41.082157
+   remaining : 1:54:38.755963
+ average_fps : 10.47
+
+ current_dir : ..\dataset\png\noisy\set07\V006\snr40 (#95/132)
+       numIm : 1841
+elapsed_time : 4:43:03.513516
+   remaining : 1:51:53.489291
+ average_fps : 10.46
+
+ current_dir : ..\dataset\png\noisy\set07\V007\snr03 (#96/132)
+       numIm : 1842
+elapsed_time : 4:46:22.104854
+   remaining : 1:49:05.996975
+ average_fps : 10.44
+
+ current_dir : ..\dataset\png\noisy\set07\V007\snr05 (#97/132)
+       numIm : 1842
+elapsed_time : 4:50:12.117683
+   remaining : 1:46:29.271791
+ average_fps : 10.41
+
+ current_dir : ..\dataset\png\noisy\set07\V007\snr10 (#98/132)
+       numIm : 1842
+elapsed_time : 4:53:59.045302
+   remaining : 1:43:49.982408
+ average_fps : 10.38
+
+ current_dir : ..\dataset\png\noisy\set07\V007\snr20 (#99/132)
+       numIm : 1842
+elapsed_time : 4:57:30.025174
+   remaining : 1:41:03.928020
+ average_fps : 10.36
+
+ current_dir : ..\dataset\png\noisy\set07\V007\snr40 (#100/132)
+       numIm : 1842
+elapsed_time : 5:00:56.117823
+   remaining : 1:38:15.391876
+ average_fps : 10.34
+
+ current_dir : ..\dataset\png\noisy\set07\V008\snr03 (#101/132)
+       numIm : 1842
+elapsed_time : 5:04:16.421092
+   remaining : 1:35:24.306979
+ average_fps : 10.33
+
+ current_dir : ..\dataset\png\noisy\set07\V008\snr05 (#102/132)
+       numIm : 1842
+elapsed_time : 5:08:07.247839
+   remaining : 1:32:41.839866
+ average_fps : 10.30
+
+ current_dir : ..\dataset\png\noisy\set07\V008\snr10 (#103/132)
+       numIm : 1842
+elapsed_time : 5:11:47.616992
+   remaining : 1:29:55.047402
+ average_fps : 10.28
+
+ current_dir : ..\dataset\png\noisy\set07\V008\snr20 (#104/132)
+       numIm : 1842
+elapsed_time : 5:15:11.279258
+   remaining : 1:27:02.624501
+ average_fps : 10.27
+
+ current_dir : ..\dataset\png\noisy\set07\V008\snr40 (#105/132)
+       numIm : 1842
+elapsed_time : 5:18:29.315968
+   remaining : 1:24:08.128312
+ average_fps : 10.26
+
+ current_dir : ..\dataset\png\noisy\set07\V009\snr03 (#106/132)
+       numIm : 1841
+elapsed_time : 5:21:42.030320
+   remaining : 1:21:11.850405
+ average_fps : 10.25
+
+ current_dir : ..\dataset\png\noisy\set07\V009\snr05 (#107/132)
+       numIm : 1841
+elapsed_time : 5:25:31.330031
+   remaining : 1:18:24.202135
+ average_fps : 10.22
+
+ current_dir : ..\dataset\png\noisy\set07\V009\snr10 (#108/132)
+       numIm : 1841
+elapsed_time : 5:29:09.185712
+   remaining : 1:15:32.800819
+ average_fps : 10.20
+
+ current_dir : ..\dataset\png\noisy\set07\V009\snr20 (#109/132)
+       numIm : 1841
+elapsed_time : 5:32:33.020417
+   remaining : 1:12:37.496412
+ average_fps : 10.19
+
+ current_dir : ..\dataset\png\noisy\set07\V009\snr40 (#110/132)
+       numIm : 1841
+elapsed_time : 5:35:50.900782
+   remaining : 1:09:40.444812
+ average_fps : 10.18
+
+ current_dir : ..\dataset\png\noisy\set07\V010\snr03 (#111/132)
+       numIm : 1841
+elapsed_time : 5:39:03.007785
+   remaining : 1:06:41.887064
+ average_fps : 10.18
+
+ current_dir : ..\dataset\png\noisy\set07\V010\snr05 (#112/132)
+       numIm : 1841
+elapsed_time : 5:42:49.195101
+   remaining : 1:03:49.435330
+ average_fps : 10.16
+
+ current_dir : ..\dataset\png\noisy\set07\V010\snr10 (#113/132)
+       numIm : 1841
+elapsed_time : 5:46:27.969161
+   remaining : 1:00:54.741355
+ average_fps : 10.14
+
+ current_dir : ..\dataset\png\noisy\set07\V010\snr20 (#114/132)
+       numIm : 1841
+elapsed_time : 5:49:57.002502
+   remaining : 0:57:57.670520
+ average_fps : 10.12
+
+ current_dir : ..\dataset\png\noisy\set07\V010\snr40 (#115/132)
+       numIm : 1841
+elapsed_time : 5:53:21.568541
+   remaining : 0:54:59.355605
+ average_fps : 10.11
+
+ current_dir : ..\dataset\png\noisy\set07\V011\snr03 (#116/132)
+       numIm : 1800
+elapsed_time : 5:56:42.785567
+   remaining : 0:52:00.105503
+ average_fps : 10.10
+
+ current_dir : ..\dataset\png\noisy\set07\V011\snr05 (#117/132)
+       numIm : 1800
+elapsed_time : 6:00:23.387519
+   remaining : 0:49:07.742233
+ average_fps : 10.08
+
+ current_dir : ..\dataset\png\noisy\set07\V011\snr10 (#118/132)
+       numIm : 1800
+elapsed_time : 6:03:52.284250
+   remaining : 0:46:13.102287
+ average_fps : 10.07
+
+ current_dir : ..\dataset\png\noisy\set07\V011\snr20 (#119/132)
+       numIm : 1800
+elapsed_time : 6:07:05.327338
+   remaining : 0:43:16.037341
+ average_fps : 10.06
+
+ current_dir : ..\dataset\png\noisy\set07\V011\snr40 (#120/132)
+       numIm : 1800
+elapsed_time : 6:10:16.055087
+   remaining : 0:40:18.462922
+ average_fps : 10.06
+
+ current_dir : ..\dataset\png\original\set07\V000 (#121/132)
+       numIm : 1842
+elapsed_time : 6:13:24.061716
+   remaining : 0:37:20.406172
+ average_fps : 10.05
+
+ current_dir : ..\dataset\png\original\set07\V001 (#122/132)
+       numIm : 1842
+elapsed_time : 6:16:41.501082
+   remaining : 0:34:18.491038
+ average_fps : 10.05
+
+ current_dir : ..\dataset\png\original\set07\V002 (#123/132)
+       numIm : 1841
+elapsed_time : 6:19:58.027775
+   remaining : 0:31:16.250978
+ average_fps : 10.04
+
+ current_dir : ..\dataset\png\original\set07\V003 (#124/132)
+       numIm : 1841
+elapsed_time : 6:23:18.522673
+   remaining : 0:28:14.182149
+ average_fps : 10.03
+
+ current_dir : ..\dataset\png\original\set07\V004 (#125/132)
+       numIm : 1977
+elapsed_time : 6:26:34.494115
+   remaining : 0:25:11.526878
+ average_fps : 10.03
+
+ current_dir : ..\dataset\png\original\set07\V005 (#126/132)
+       numIm : 2175
+elapsed_time : 6:30:06.196156
+   remaining : 0:21:55.216045
+ average_fps : 10.02
+
+ current_dir : ..\dataset\png\original\set07\V006 (#127/132)
+       numIm : 1841
+elapsed_time : 6:33:56.918639
+   remaining : 0:18:18.845974
+ average_fps : 10.02
+
+ current_dir : ..\dataset\png\original\set07\V007 (#128/132)
+       numIm : 1842
+elapsed_time : 6:37:15.527601
+   remaining : 0:15:15.625337
+ average_fps : 10.01
+
+ current_dir : ..\dataset\png\original\set07\V008 (#129/132)
+       numIm : 1842
+elapsed_time : 6:40:34.791294
+   remaining : 0:12:12.086003
+ average_fps : 10.00
+
+ current_dir : ..\dataset\png\original\set07\V009 (#130/132)
+       numIm : 1841
+elapsed_time : 6:43:49.053828
+   remaining : 0:09:08.194430
+ average_fps : 10.00
+
+ current_dir : ..\dataset\png\original\set07\V010 (#131/132)
+       numIm : 1841
+elapsed_time : 6:47:00.039826
+   remaining : 0:06:04.199026
+ average_fps : 10.00
+
+ current_dir : ..\dataset\png\original\set07\V011 (#132/132)
+       numIm : 1800
+elapsed_time : 6:50:20.680558
+   remaining : 0:03:00.169631
+ average_fps : 9.99
+
+
+             numFrame : 247775
+processingElapsedTime : 6:53:28.480128 (0.10 sec/frame | 9.99 fps)
+     totalElapsedTime : 8:01:56.773484 (14.21 % spend in functions)
